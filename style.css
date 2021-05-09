@@ -1,5 +1,6 @@
 .block,
-#blocks > div {
+#blocks > div,
+#div1, #div2, #div3 {
   width: 100px;
   height: 100px;
   margin: 5px;
